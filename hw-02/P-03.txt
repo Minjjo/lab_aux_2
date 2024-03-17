@@ -1,0 +1,11 @@
+-) Características importantes de TypeScript
+
+    Tipado estático.- Permite definir tipos para variables y funciones
+    Inferencia de tipos.- Puede inferir automáticamente el tipo de una variable basándose en su valor
+    Interfaces y tipos personalizados.- Permite definir estructuras de datos claras y reutilizables
+    Chequeo de tipos en tiempo de compilacion.- Detecta errores de tipo antes de la ejecución del programa
+
+-) Diferencias con JavaScript
+
+-Tipado estático  
+    TypeScript permite tipado estático, mientras JavaScript es directamente dinámico.

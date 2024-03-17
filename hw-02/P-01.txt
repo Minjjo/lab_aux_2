@@ -1,0 +1,17 @@
+-) Características importantes y como es que funcionan los anteriormente mencionados
+
+	1) Interpolación de variables 
+		- Se puede incluir variables dentro del string usando `${}`
+	2) Strings multilínea 
+		- Se puede permite la creación de strings que abarcan múltiples líneas sin necesidad de anotar en el codigo `\n`
+	3) Formato exacto
+		- El formato del string se mantiene tal como se escribe
+
+
+
+
+
+
+-)Diferencias de las comillas simples y dobles
+
+Las comillas simples -> '' y dobles -> "" son para definir strings estos no permiten que se puedan interpolar variables ni la creación de strings de multilínea
